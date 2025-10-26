@@ -1,0 +1,31 @@
+📁 Bharat_Herald_Project/
+│
+├── 📁 data/
+│   ├── dim_ad_category.csv
+│   ├── dim_city.csv
+│   ├── fact_ad_revenue.csv
+│   ├── fact_city_readiness.csv
+│   ├── fact_digital_pilot.csv
+│   ├── fact_print_sales.csv
+│
+├── 📁 sql_queries/
+│   ├── AdhocRequest.sql
+│   ├── Business Request – 1.sql
+│   ├── Business Request – 2.sql
+│   ├── Business Request – 3.sql
+│   ├── Business Request – 4.sql
+│   ├── Business Request – 5.sql
+│   ├── Business Request – 6.sql
+│
+├── 📁 reports_and_docs/
+│   ├── How to Get Started (A Step-by-Step Guide).pdf
+│   ├── Media_Problem Statement.pdf
+│   ├── Primary_and_Secondary_Analysis.pdf
+│   ├── ad-hoc-requests.pdf
+│   ├── metadata.txt
+│
+├── 📁 visuals/
+│   ├── Bharat_Herald.pptx
+│   ├── codebasics (1).pbix
+│
+├── README.md
